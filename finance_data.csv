@@ -1,0 +1,51 @@
+date,amount,category,description
+08-01-2023,846,Income,Utilities
+10-01-2023,614,Expense,Gym Membership
+24-01-2023,148,Expense,Groceries
+10-02-2023,461,Income,Dining Out
+16-02-2023,624,Income,Utilities
+19-02-2023,502,Expense,Salary
+28-02-2023,901,Income,Entertainment
+13-03-2023,752,Income,Fuel
+28-03-2023,260,Expense,Entertainment
+09-04-2023,879,Expense,Groceries
+11-04-2023,266,Income,Insurance
+21-04-2023,497,Income,Utilities
+02-05-2023,294,Expense,Entertainment
+04-05-2023,757,Expense,Utilities
+05-05-2023,825,Expense,Fuel
+12-05-2023,119,Income,Groceries
+13-05-2023,431,Income,Internet Bill
+30-05-2023,140,Income,Fuel
+30-05-2023,421,Income,Entertainment
+12-06-2023,502,Expense,Gym Membership
+19-06-2023,488,Expense,Dining Out
+23-06-2023,301,Income,Dining Out
+24-06-2023,630,Expense,Rent
+05-07-2023,687,Expense,Gym Membership
+12-07-2023,637,Expense,Gym Membership
+17-07-2023,379,Expense,Fuel
+18-07-2023,970,Expense,Rent
+19-07-2023,654,Expense,Internet Bill
+19-07-2023,609,Expense,Rent
+27-07-2023,799,Expense,Gym Membership
+30-07-2023,444,Expense,Rent
+07-08-2023,560,Expense,Groceries
+12-08-2023,843,Expense,Utilities
+12-08-2023,461,Expense,Dining Out
+18-08-2023,830,Expense,Rent
+26-08-2023,400,Expense,Internet Bill
+30-08-2023,762,Expense,Internet Bill
+31-08-2023,535,Expense,Salary
+01-09-2023,218,Income,Internet Bill
+02-09-2023,971,Income,Internet Bill
+03-10-2023,291,Expense,Entertainment
+14-10-2023,908,Income,Dining Out
+23-11-2023,265,Income,Entertainment
+27-11-2023,214,Expense,Fuel
+03-12-2023,57900000,Income,Salary
+16-12-2023,279,Income,Internet Bill
+24-12-2023,555,Expense,Dining Out
+27-12-2023,58,Income,Groceries
+29-12-2023,919,Expense,Entertainment
+29-12-2023,49,Income,Internet Bill
